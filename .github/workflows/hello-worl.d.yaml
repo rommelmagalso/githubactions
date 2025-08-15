@@ -5,8 +5,8 @@ on:
 
 jobs:
   hello:
-    name: JP is Gay
-    runs-on: self-hosted
+    name: hello now
+      runs-on: self-hosted
 
     steps:
       - name: Print Hello World
